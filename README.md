@@ -86,14 +86,16 @@ const prabhat = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <a href="https://github.com/prabhatkrmishra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prabhatkrmishra&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00F72E&icon_color=00F72E" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatkrmishra&layout=compact&theme=radical&hide_border=true&title_color=00F72E" />
-  </a>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatkrmishra&theme=radical&hide_border=true&stroke=00F72E&ring=00F72E&fire=00F72E&currStreakLabel=00F72E" />
-  
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prabhatkrmishra&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=FFD93D" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatkrmishra&layout=compact&theme=radical&hide_border=true&title_color=FF9F1C&hide=python" />
+  </div>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats-omega-eight-88.vercel.app/?user=prabhatkrmishra&theme=radical&hide_border=true&mode=weekly&currStreakLabel=FF6B6B&ring=FFD93D&fire=FF9F1C&stroke=30EB1A" alt="GitHub Streak" />
+
 </div>
 
 ---
@@ -120,7 +122,7 @@ const prabhat = {
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabhatkrmishra&theme=react-dark&hide_border=true&color=00F72E&line=00F72E&point=FFFFFF)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabhatkrmishra&theme=react-dark&color=fbff00&line=ff6600&point=00ff04&area=true&hide_border=true)
   
 </div>
 
