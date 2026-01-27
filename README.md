@@ -94,7 +94,7 @@ const prabhat = {
 
   <br/>
 
-  <img src="https://github-readme-streak-stats-omega-eight-88.vercel.app/?user=prabhatkrmishra&theme=radical&hide_border=true&mode=weekly&currStreakLabel=FF6B6B&ring=FFD93D&fire=FF9F1C&stroke=30EB1A" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-omega-eight-88.vercel.app?user=prabhatkrmishra&theme=radical&hide_border=true&mode=weekly&ring=FFD93D&fire=FF7E1A&stroke=30EB1A&currStreakLabel=FF6B6B&currStreakNum=E0382D&sideLabels=EB7247&sideNums=1AA6EB" alt="GitHub Streak" /></a>
 
 </div>
 
