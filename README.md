@@ -1,43 +1,47 @@
-# 🚀 Prabhat Kumar Mishra
+# Prabhat Kumar Mishra
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Adventure+Enthusiast;PERN+Stack+Developer;Full+Stack+Developer;Physics+Enthusiast;Quantum+World+Explorer;Linux+Kernel+Developer;" alt="Typing Animation" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Saira+Stencil&weight=600&size=25&pause=1000&color=F7A211&center=true&vCenter=true&background=6F400B18&width=800&height=100&lines=Full+Stack+Engineer+%7C+Java+%26+Modern+C%2B%2B+%7C+Distributed+Systems" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=google-maps" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-green?style=for-the-badge&logo=code" />
-  <img src="https://img.shields.io/badge/Interest-Quantum%20World-purple?style=for-the-badge&logo=atom" />
-</p>
-
+<div align="center">
+  <div>
+	<a href="mailto:mprabhat774@gmail.com">
+		<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://t.me/E0x70DB8CEA">
+		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+	</a>
+	<a href="https://discord.com/users/539351584140689419">
+		<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+	</a>
+  </div>
+</div>
+ 
 ---
 
-## 🌟 About Me
+## About Me
 
 ```javascript
 const prabhat = {
-    💫 passion: ["Energy Physics", "Quantum World", "Universe Mysteries"],
-    💻 techStack: {
-        languages: ["C++", "JavaScript", "HTML", "CSS", "SQL"],
-        frontend: ["React", "Tailwind", "Bootstrap"],
-        backend: ["Node.js", "Express", "RESTful APIs"],
-        database: ["PostgreSQL", "MongoDB"],
-        tools: ["Git", "Docker", "Android Studio", "VS Code"],
-        environments: ["Linux", "Ubuntu", "Windows"]
-    },
-    🔬 specialties: [
-        "Linux Kernel Modules",
-        "Android System Internals", 
-        "High-performance Backend Design",
-        "Scalable PERN Applications",
-        "Compiler Toolchains (GCC/Clang)"
+    title: "Full Stack & Systems Engineer",
+    location: "India",
+    focus: [
+        "Distributed Systems", 
+        "Backend Architecture", 
+        "Low-Latency Applications",
+        "Linux Kernel Internals"
     ],
-    🎯 currentFocus: {
-        programming: "Mastering Advanced DSA in C++",
-        systems: "Linux Kernel Development & Android Internals",
-        development: "Building Scalable Full-Stack Applications"
+    currentWork: "Architecting scalable Java backends and optimizing system-level performance with Modern C++",
+    techStack: {
+        languages: ["Java", "Modern C++", "JavaScript", "SQL"],
+        backend: ["Spring Boot", "Node.js", "Express", "Microservices", "FastAPI"],
+        frontend: ["React", "Tailwind CSS", "HTML5/CSS3"],
+        database: ["PostgreSQL", "MongoDB", "Redis"],
+        systems: ["Linux Kernel", "GCC/Clang", "Bash", "Android Internals"],
+        tools: ["Git", "Docker", "Kubernetes", "IntelliJ IDEA", "VS Code"]
     },
-    ✨ philosophy: "Code. Learn. Iterate. Repeat. - Striving for clarity in logic and beauty in design."
+    philosophy: "Building resilient systems where performance meets scalability."
 };
 ```
 
@@ -88,13 +92,13 @@ const prabhat = {
 <div align="center">
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prabhatkrmishra&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=FFD93D" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatkrmishra&layout=compact&theme=radical&hide_border=true&title_color=FF9F1C&hide=python" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=prabhatkrmishra&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=FFD93D" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prabhatkrmishra&layout=compact&theme=radical&hide_border=true&title_color=FF9F1C&hide=python" />
   </div>
 
   <br/>
 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-omega-eight-88.vercel.app?user=prabhatkrmishra&theme=radical&hide_border=true&mode=weekly&ring=FFD93D&fire=FF7E1A&stroke=30EB1A&currStreakLabel=FF6B6B&currStreakNum=E0382D&sideLabels=EB7247&sideNums=1AA6EB" alt="GitHub Streak" /></a>
+  <a href="https://github.com/prabhatkrmishra"><img src="https://github-readme-streak-stats-bhmw.vercel.app/?user=prabhatkrmishra&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=EBA155&ring=92EB1F&stroke=2B91EB&sideNums=EB61D8&currStreakLabel=EB2121&sideLabels=EB1F8C&dates=89E1EB" alt="GitHub Streak" /></a>
 
 </div>
 
@@ -108,11 +112,11 @@ const prabhat = {
 
 | SparkNest | Blogging Mania |
 |-----------|----------------|
-| <a href="https://github.com/prabhatkrmishra/SparkNest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhatkrmishra&repo=SparkNest&theme=radical&hide_border=true&title_color=00F72E" alt="SparkNest" /></a> | <a href="https://github.com/prabhatkrmishra/Blogging-Mania"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhatkrmishra&repo=Blogging-Mania&theme=radical&hide_border=true&title_color=00F72E" alt="Blogging-Mania" /></a> |
+| <a href="https://github.com/prabhatkrmishra/SparkNest"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=prabhatkrmishra&repo=SparkNest&theme=radical&hide_border=true&title_color=00F72E" alt="SparkNest" /></a> | <a href="https://github.com/prabhatkrmishra/Blogging-Mania"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=prabhatkrmishra&repo=Blogging-Mania&theme=radical&hide_border=true&title_color=00F72E" alt="Blogging-Mania" /></a> |
 
 | DBank | Android Kernel Tools |
 |-------|---------------------|
-| <a href="https://github.com/prabhatkrmishra/DBank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhatkrmishra&repo=DBank&theme=radical&hide_border=true&title_color=00F72E" alt="DBank" /></a> | <a href="https://github.com/prabhatkrmishra/android-kernel-tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhatkrmishra&repo=android-kernel-tools&theme=radical&hide_border=true&title_color=00F72E" alt="android-kernel-tools" /></a> |
+| <a href="https://github.com/prabhatkrmishra/DBank"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=prabhatkrmishra&repo=DBank&theme=radical&hide_border=true&title_color=00F72E" alt="DBank" /></a> | <a href="https://github.com/prabhatkrmishra/android-kernel-tools"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=prabhatkrmishra&repo=android-kernel-tools&theme=radical&hide_border=true&title_color=00F72E" alt="android-kernel-tools" /></a> |
 
 </div>
 
@@ -128,34 +132,9 @@ const prabhat = {
 
 ---
 
-<p align="center">
-  <h2 align="left">
-    ✌ Popularity
-  </h2>
-  <div align="center">
-    <img src="https://camo.githubusercontent.com/5f865d82b7324e88dd870f0a4539e86a9c516fdc52da5c0612ec61805bcdc742/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d706b6d373734267374796c653d666c61742d737175617265" 
-         alt="prabhatkrmishra" 
-         width="220" 
-         height="40" />
-  </div>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/prabhatkrmishra">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!--img src="https://komarev.com/ghpvc/?username=prabhatkrmishra&style=for-the-badge&color=00F72E&label=PROFILE+VIEWS" /-->
-</p>
-
----
-
 <div align="center">
 
-### **✨ "Building digital worlds by day, Exploring the quantum realm by night."** ✨
+### **✨ "Engineering high-performance distributed systems and mastering the depths of Linux kernel optimization."** ✨
 
 </div>
 
